@@ -2,7 +2,7 @@ apiVersion: eksctl.io/v1alpha5
 kind: ClusterConfig
 
 metadata:
-  name: roboshop2
+  name: roboshop3
   region: us-east-1
 
 managedNodeGroups:
